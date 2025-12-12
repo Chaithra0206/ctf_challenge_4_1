@@ -19,14 +19,17 @@ Make sure you have the following installed:
 
 1. Clone the repository:
 
-git clone https://github.com/Chaithra0206/ctf_challenge_4_1.git
-cd ctf_challenge_4_1
+  git clone https://github.com/Chaithra0206/ctf_challenge_4_1.git
+
+  cd ctf_challenge_4_1
 
 2. Install dependencies:
-npm install
+   
+  npm install
 
-Run the development server:
-npm run dev
+3.Run the development server:
 
-Open your browser and visit:
-http://localhost:5173
+  npm run dev
+
+4.Open your browser and visit:
+  http://localhost:5173
